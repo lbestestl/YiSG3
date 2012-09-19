@@ -9,7 +9,7 @@
 ///============================================================================
 
 
-#include "../include/Coordinate.h"
+#include "../inc/Coordinate.h"
 
 
 const int

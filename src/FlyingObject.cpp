@@ -9,4 +9,4 @@
 ///============================================================================
 
 
-#include "../include/FlyingObject.h"
+#include "../inc/FlyingObject.h"
